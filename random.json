@@ -1,0 +1,28 @@
+[
+    {
+        "random_alam": [
+            "bulan", "matahari", "api", "tanaman", "bukit", "air"
+        ]
+    },
+    {
+        "random_hewan": [
+            "laba-laba", "anjing", "kucing", "hantu", "robot", "orang"
+        ]
+    },
+    {
+        "random_bangunan": [
+            "rumah", "gedung", "pohon", "goa", "tenda"
+        ]
+    },
+    {
+        "random_benda": [
+            "ponsel", "lampu", "buku", "kunci", "amplop"
+        ]
+    },
+    {
+        "random_ekspresi": [
+            "hati", "sedih", "mata", "kaki", "tanya"
+        ]
+    }
+
+]
