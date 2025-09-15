@@ -92,62 +92,6 @@
   "resources": {
     "resources": [
       {
-        "file": "assets/default2.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "default",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/default3.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "default2",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/default4.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "default3",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/anjing_acak.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "anjing_acak",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/bangunan.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "bangunan",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/default5.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "default4",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/default6.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "default5",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
         "file": "Hey Comic7.otf",
         "kind": "font",
         "metadata": "",
@@ -155,1282 +99,10 @@
         "userAdded": false
       },
       {
-        "file": "assets/default7.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "default6",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/default8.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "default7",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/default9.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "default8",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
         "file": "assets/default10.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "default9",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/NewSprite8.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite7",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "ALPHABETRON.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ALPHABETRON.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/acak_benda.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\acak_benda.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/acak_rumah.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\acak_rumah.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/acak_rumah2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\acak_rumah2.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/default.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\default.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Group (18).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\Group (18).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/images (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\images (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/images (1)2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\images (1)2.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/NewSprite.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\NewSprite.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/NewSprite2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\NewSprite2.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/NewSprite3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\NewSprite3.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/NewSprite4.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\NewSprite4.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/NewSprite5.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\NewSprite5.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/NewSprite6.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\NewSprite6.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/NewSprite7.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\NewSprite7.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/NewSprite9.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\NewSprite9.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/tilemap_packed7.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\tilemap_packed7.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "bagong 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "bagong 1.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "bg opacity.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "bg opacity.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "coklat.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "coklat.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Ellipse 1 (2).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Ellipse 1 (2).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Ellipse 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Ellipse 1.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Frame (11).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Frame (11).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Frame (11)2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Frame (11)2.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Frame (12).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Frame (12).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Frame (13).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Frame (13).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Frame (13)2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Frame (13)2.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Frame (14).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Frame (14).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Frame (15).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Frame (15).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Frame (16).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Frame (16).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Frame (17).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Frame (17).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Frame (18).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Frame (18).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Frame (19).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Frame (19).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Frame (2).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Frame (2).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Frame (20).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Frame (20).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Frame (20)2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Frame (20)2.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Frame (21).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Frame (21).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Frame (22).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Frame (22).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Frame (23).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Frame (23).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Frame (24).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Frame (24).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Frame (25).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Frame (25).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Frame (4).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Frame (4).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Frame (5).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Frame (5).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Frame (6).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Frame (6).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Frame (9).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Frame (9).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Frame 11.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Frame 11.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Frame 12.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Frame 12.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Frame 14.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Frame 14.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Frame 44.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Frame 44.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Frame 46.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Frame 46.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Frame 47.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Frame 47.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Frame.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Frame.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Frame15.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Frame15.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Frame48.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Frame48.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "gembik.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "gembik.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "gembok.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "gembok.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group (10).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group (10).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group (11).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group (11).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group (12).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group (12).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group (13).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group (13).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group (14).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group (14).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group (18).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group (18).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group (18)2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group (18)2.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group (19).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group (19).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group (20).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group (20).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group (20)2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group (20)2.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group (21).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group (21).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group (21)2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group (21)2.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group (22).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group (22).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group (23).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group (23).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group (24).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group (24).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group (25).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group (25).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group (25)2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group (25)2.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group (26).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group (26).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group (27).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group (27).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group (28).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group (28).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group (29).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group (29).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group (3).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group (3).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group (30).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group (30).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group (31).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group (31).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group (32).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group (32).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group (34).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group (34).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group (37).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group (37).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group (38).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group (38).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group (39).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group (39).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group (4).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group (4).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group (40).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group (40).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group (41).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group (41).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group (42).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group (42).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group (43).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group (43).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group (5).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group (5).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group (7).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group (7).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group (8).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group (8).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group (9).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group (9).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group 1 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group 1 (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group 10 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group 10 (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group 10 (2).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group 10 (2).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group 10 (4).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group 10 (4).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group 10.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group 10.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group 12.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group 12.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group 13.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group 13.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group 17.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group 17.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group 22 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group 22 (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group 22 (2).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group 22 (2).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group 22 (3).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group 22 (3).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group 22 (3)2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group 22 (3)2.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group 22 (3)3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group 22 (3)3.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group 22.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group 22.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group 26.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group 26.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group 27.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group 27.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group 35.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group 35.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group 36 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group 36 (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group 36.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group 36.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group 37.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group 37.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group 38.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group 38.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group 39.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group 39.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group 43 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group 43 (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group 6 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group 6 (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group 6.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group 6.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group 64.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group 64.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group 65 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group 65 (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group 65 (2).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group 65 (2).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group 65 (2)2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group 65 (2)2.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group 65 (2)3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group 65 (2)3.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group 65 (2)4.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group 65 (2)4.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group 65.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group 65.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group 7 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group 7 (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group 7 (2).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group 7 (2).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group 7.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group 7.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group 75.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group 75.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group 8 (2).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group 8 (2).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group 8 (3).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group 8 (3).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group 8 (4).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group 8 (4).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group 89.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group 89.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group 9 (2).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group 9 (2).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group 9 (3).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group 9 (3).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group 9.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group 9.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group27.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group27.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group90.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group90.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "images (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "images (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "images (1)2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "images (1)2.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "kotak teks.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "kotak teks.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "lemari tanya.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "lemari tanya.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Manakah barang yang hilang_ (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Manakah barang yang hilang_ (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Manakah barang yang hilang_.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Manakah barang yang hilang_.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "pink.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "pink.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Pola Selanjutnya!.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Pola Selanjutnya!.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Polygon 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Polygon 1.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Rectangle 6 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Rectangle 6 (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Rectangle 6.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Rectangle 6.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Rectangle 7.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Rectangle 7.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Rectangle8.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Rectangle8.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "ROBOT ALFABET.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ROBOT ALFABET.png",
         "smoothed": true,
         "userAdded": false
       },
@@ -1515,30 +187,6 @@
         "userAdded": false
       },
       {
-        "file": "assets/Design Icon.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Design Icon.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/gedunggggggggggg.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\gedunggggggggggg.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/goa.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\goa.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
         "file": "assets/goaaaaaaaaaaaa.png",
         "kind": "image",
         "metadata": "",
@@ -1547,26 +195,10 @@
         "userAdded": false
       },
       {
-        "file": "assets/hantu.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\hantu.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
         "file": "assets/hantuuuuuuuuuuuuuuuuuuu.png",
         "kind": "image",
         "metadata": "",
         "name": "Story-Dice\\assets\\hantuuuuuuuuuuuuuuuuuuu.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Isilah buku ini dengan cerita yang kamu buat.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Isilah buku ini dengan cerita yang kamu buat.png",
         "smoothed": true,
         "userAdded": false
       },
@@ -1587,14 +219,6 @@
         "userAdded": false
       },
       {
-        "file": "assets/laba-laba.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\laba-laba.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
         "file": "assets/labaa.png",
         "kind": "image",
         "metadata": "",
@@ -1611,26 +235,10 @@
         "userAdded": false
       },
       {
-        "file": "assets/Level 10.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Level 10.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
         "file": "assets/matahariiiiiiiiiiiiiiiiiiii.png",
         "kind": "image",
         "metadata": "",
         "name": "Story-Dice\\assets\\matahariiiiiiiiiiiiiiiiiiii.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/orqngggggggggggggg.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\orqngggggggggggggg.png",
         "smoothed": true,
         "userAdded": false
       },
@@ -1643,14 +251,6 @@
         "userAdded": false
       },
       {
-        "file": "assets/pohonnnnnnnnnnnnn.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\pohonnnnnnnnnnnnn.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
         "file": "assets/ponsellllllllllllll.png",
         "kind": "image",
         "metadata": "",
@@ -1659,578 +259,10 @@
         "userAdded": false
       },
       {
-        "file": "assets/Robot_20250814193959 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Robot_20250814193959 1.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Robot_20250814193959 2 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Robot_20250814193959 2 (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Robot_20250814193959 2 (2).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Robot_20250814193959 2 (2).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Robot_20250814193959 2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Robot_20250814193959 2.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/robot.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\robot.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
         "file": "assets/robotttttttttttttt.png",
         "kind": "image",
         "metadata": "",
         "name": "Story-Dice\\assets\\robotttttttttttttt.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/rumahhhhhhh.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\rumahhhhhhh.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 274_20250813072922 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 274_20250813072922 1.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 274_20250813072922 2 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 274_20250813072922 2 (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 274_20250813072922 2 (2).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 274_20250813072922 2 (2).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 274_20250813072922 2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 274_20250813072922 2.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 274_20250813072922 4.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 274_20250813072922 4.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 275_20250814193940 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 275_20250814193940 1.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 275_20250814193940 2 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 275_20250814193940 2 (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 275_20250814193940 2 (2).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 275_20250814193940 2 (2).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 275_20250814193940 2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 275_20250814193940 2.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 275_20250814193940 3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 275_20250814193940 3.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 277_20250814193946 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 277_20250814193946 1.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 277_20250814193946 2 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 277_20250814193946 2 (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 277_20250814193946 2 (2).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 277_20250814193946 2 (2).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 277_20250814193946 2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 277_20250814193946 2.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 281_20250814193928 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 281_20250814193928 1.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 281_20250814193928 2 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 281_20250814193928 2 (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 281_20250814193928 2 (2).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 281_20250814193928 2 (2).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 281_20250814193928 2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 281_20250814193928 2.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 282_20250813131055 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 282_20250813131055 1.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 282_20250813131055 2 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 282_20250813131055 2 (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 282_20250813131055 2 (2).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 282_20250813131055 2 (2).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 282_20250813131055 2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 282_20250813131055 2.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 282_20250813131055 3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 282_20250813131055 3.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 283_20250814193914 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 283_20250814193914 1.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 283_20250814193914 3 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 283_20250814193914 3 (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 283_20250814193914 3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 283_20250814193914 3.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 283_20250814193914 4 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 283_20250814193914 4 (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 283_20250814193914 4.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 283_20250814193914 4.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 285_20250814182443 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 285_20250814182443 1.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 285_20250814182443 2 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 285_20250814182443 2 (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 285_20250814182443 2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 285_20250814182443 2.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 287_20250814033133 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 287_20250814033133 1.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 287_20250814033133 2 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 287_20250814033133 2 (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 287_20250814033133 2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 287_20250814033133 2.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 287_20250814033133 3 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 287_20250814033133 3 (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 287_20250814033133 3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 287_20250814033133 3.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 288_20250814184957 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 288_20250814184957 1.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 288_20250814184957 2 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 288_20250814184957 2 (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 288_20250814184957 2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 288_20250814184957 2.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 289_20250814193902 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 289_20250814193902 1.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 289_20250814193902 2 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 289_20250814193902 2 (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 289_20250814193902 2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 289_20250814193902 2.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 290_20250815094220 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 290_20250815094220 1.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 290_20250815094220 2 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 290_20250815094220 2 (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 290_20250815094220 2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 290_20250815094220 2.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 291_20250814193835 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 291_20250814193835 1.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 291_20250814193835 2 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 291_20250814193835 2 (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 291_20250814193835 2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 291_20250814193835 2.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 291_20250814193835 3 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 291_20250814193835 3 (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 291_20250814193835 3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 291_20250814193835 3.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 292_20250814182347 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 292_20250814182347 1.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 292_20250814182347 2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 292_20250814182347 2.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 292_20250814182347 3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 292_20250814182347 3.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 292_20250814182347 4 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 292_20250814182347 4 (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 292_20250814182347 4.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 292_20250814182347 4.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 293_20250814193849 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 293_20250814193849 1.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 293_20250814193849 3 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 293_20250814193849 3 (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 293_20250814193849 3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 293_20250814193849 3.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 298_20250815094226 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 298_20250815094226 1.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 298_20250815094226 2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 298_20250815094226 2.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 298_20250815094226 3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 298_20250815094226 3.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 298_20250815094226 4.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 298_20250815094226 4.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 302_20250816093756 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 302_20250816093756 1.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 302_20250816093756 2 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 302_20250816093756 2 (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 302_20250816093756 2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 302_20250816093756 2.png",
         "smoothed": true,
         "userAdded": false
       },
@@ -2323,22 +355,6 @@
         "userAdded": false
       },
       {
-        "file": "assets/Senza titolo 336_20250818110608 1 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 336_20250818110608 1 (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 336_20250818110608 1 (2).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 336_20250818110608 1 (2).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
         "file": "assets/Senza titolo 336_20250818110608 1.png",
         "kind": "image",
         "metadata": "",
@@ -2351,22 +367,6 @@
         "kind": "image",
         "metadata": "",
         "name": "Story-Dice\\assets\\Senza titolo 336_20250818110747 1.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 336_20250818110747 2 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 336_20250818110747 2 (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 336_20250818110747 2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 336_20250818110747 2.png",
         "smoothed": true,
         "userAdded": false
       },
@@ -2427,42 +427,10 @@
         "userAdded": false
       },
       {
-        "file": "assets/Senza titolo 349_20250826083706 1 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 349_20250826083706 1 (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Story-Dice/assets/Senza titolo 349_20250826083706 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 349_20250826083706 1.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Story-Dice/assets/Senza titolo 351_20250819040031 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 351_20250819040031 1.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
         "file": "assets/Senza titolo 351_20250819040041 1 (1).png",
         "kind": "image",
         "metadata": "",
         "name": "Story-Dice\\assets\\Senza titolo 351_20250819040041 1 (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 351_20250819040041 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 351_20250819040041 1.png",
         "smoothed": true,
         "userAdded": false
       },
@@ -2531,26 +499,10 @@
         "userAdded": false
       },
       {
-        "file": "assets/Senza titolo 351_20250819040113 3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 351_20250819040113 3.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
         "file": "assets/Senza titolo 351_20250819040113 4.png",
         "kind": "image",
         "metadata": "",
         "name": "Story-Dice\\assets\\Senza titolo 351_20250819040113 4.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 353_20250819043157 1 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 353_20250819043157 1 (1).png",
         "smoothed": true,
         "userAdded": false
       },
@@ -2579,38 +531,6 @@
         "userAdded": false
       },
       {
-        "file": "assets/Senza titolo 357_20250819100449 (1) 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 357_20250819100449 (1) 1.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Story-Dice/assets/Senza titolo 358_20250819042624 1 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 358_20250819042624 1 (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 358_20250819042624 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 358_20250819042624 1.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 360_20250819043007 1 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 360_20250819043007 1 (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
         "file": "assets/Senza titolo 360_20250819043007 1.png",
         "kind": "image",
         "metadata": "",
@@ -2627,22 +547,6 @@
         "userAdded": false
       },
       {
-        "file": "assets/Senza titolo 361_20250819043058 1 (2).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 361_20250819043058 1 (2).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 361_20250819043058 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 361_20250819043058 1.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
         "file": "assets/Senza titolo 368_20250819082617 2.png",
         "kind": "image",
         "metadata": "",
@@ -2655,14 +559,6 @@
         "kind": "image",
         "metadata": "",
         "name": "Story-Dice\\assets\\Senza titolo 368_20250819082617 3.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 368_20250819082617 4.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 368_20250819082617 4.png",
         "smoothed": true,
         "userAdded": false
       },
@@ -2739,38 +635,6 @@
         "userAdded": false
       },
       {
-        "file": "assets/Senza titolo 369_20250819091035 2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 369_20250819091035 2.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 372_20250819094822 1 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 372_20250819094822 1 (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 372_20250819094822 1 (2).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 372_20250819094822 1 (2).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 372_20250819094822 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 372_20250819094822 1.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
         "file": "assets/Senza titolo 372_20250819095609 1.png",
         "kind": "image",
         "metadata": "",
@@ -2783,14 +647,6 @@
         "kind": "image",
         "metadata": "",
         "name": "Story-Dice\\assets\\Senza titolo 376_20250819141030 2 (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 376_20250819141030 2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 376_20250819141030 2.png",
         "smoothed": true,
         "userAdded": false
       },
@@ -2867,114 +723,10 @@
         "userAdded": false
       },
       {
-        "file": "assets/Senza titolo 383_20250826091846 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 383_20250826091846 1.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
         "file": "assets/Senza titolo 383_20250829052530 1.png",
         "kind": "image",
         "metadata": "",
         "name": "Story-Dice\\assets\\Senza titolo 383_20250829052530 1.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 391_20250826083712 1 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 391_20250826083712 1 (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 391_20250826083712 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 391_20250826083712 1.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 392_20250826083718 1 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 392_20250826083718 1 (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 392_20250826083718 1 (2).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 392_20250826083718 1 (2).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 392_20250826083718 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 392_20250826083718 1.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 393_20250826083724 1 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 393_20250826083724 1 (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 393_20250826083724 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 393_20250826083724 1.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 394_20250826065725 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 394_20250826065725 1.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 394_20250826065827 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 394_20250826065827 1.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 394_20250826065833 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 394_20250826065833 1.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 394_20250826065838 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 394_20250826065838 1.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Senza titolo 394_20250826065909 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\Senza titolo 394_20250826065909 1.png",
         "smoothed": true,
         "userAdded": false
       },
@@ -2995,438 +747,10 @@
         "userAdded": false
       },
       {
-        "file": "assets/tenda.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Story-Dice\\assets\\tenda.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
         "file": "assets/tendaaaaaaaaaaa.png",
         "kind": "image",
         "metadata": "",
         "name": "Story-Dice\\assets\\tendaaaaaaaaaaa.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "ungu.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ungu.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Union.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Union.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Vector (10).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Vector (10).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Vector (11).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Vector (11).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Vector (12).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Vector (12).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Vector (14).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Vector (14).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Vector (14)2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Vector (14)2.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Vector (15).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Vector (15).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Vector (15)2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Vector (15)2.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Vector (16).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Vector (16).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Vector (17).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Vector (17).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Vector (2).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Vector (2).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Vector (4).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Vector (4).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Vector (6).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Vector (6).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Vector (7).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Vector (7).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Vector (8).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Vector (8).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Vector (9).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Vector (9).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Vector.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Vector.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Vector2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Vector2.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Vector3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Vector3.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Yeay! Jawaban kamu benar! (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Yeay! Jawaban kamu benar! (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Yeay! Jawaban kamu benar!.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Yeay! Jawaban kamu benar!.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Yeay! Jawaban kamu benar!2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Yeay! Jawaban kamu benar!2.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Yeay! Jawaban kamu benar!3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Yeay! Jawaban kamu benar!3.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "bgm-menu-pola selanjutnya (1).wav",
-        "kind": "audio",
-        "metadata": "",
-        "name": "bgm-menu-pola selanjutnya (1).wav",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": false
-      },
-      {
-        "file": "bgm-menu-pola selanjutnya (1)2.wav",
-        "kind": "audio",
-        "metadata": "",
-        "name": "bgm-menu-pola selanjutnya (1)2.wav",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": false
-      },
-      {
-        "file": "bgm-menu-pola selanjutnya.wav",
-        "kind": "audio",
-        "metadata": "",
-        "name": "bgm-menu-pola selanjutnya.wav",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": false
-      },
-      {
-        "file": "bgm1-pola selanjutnya.mp3",
-        "kind": "audio",
-        "metadata": "",
-        "name": "bgm1-pola selanjutnya.mp3",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": false
-      },
-      {
-        "file": "bgm2-pola selanjutnya.wav",
-        "kind": "audio",
-        "metadata": "",
-        "name": "bgm2-pola selanjutnya.wav",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": false
-      },
-      {
-        "file": "bgm2-pola selanjutnya2.wav",
-        "kind": "audio",
-        "metadata": "",
-        "name": "bgm2-pola selanjutnya2.wav",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": false
-      },
-      {
-        "file": "click on answer - pola selanjutnya.MP3",
-        "kind": "audio",
-        "metadata": "",
-        "name": "click on answer - pola selanjutnya.MP3",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": false
-      },
-      {
-        "file": "click on answer - pola selanjutnya2.MP3",
-        "kind": "audio",
-        "metadata": "",
-        "name": "click on answer - pola selanjutnya2.MP3",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": false
-      },
-      {
-        "file": "click on answer - pola selanjutnya3.MP3",
-        "kind": "audio",
-        "metadata": "",
-        "name": "click on answer - pola selanjutnya3.MP3",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": false
-      },
-      {
-        "file": "click on answer - pola selanjutnya4.MP3",
-        "kind": "audio",
-        "metadata": "",
-        "name": "click on answer - pola selanjutnya4.MP3",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": false
-      },
-      {
-        "file": "complete the game - pola selanjutnya.mp3",
-        "kind": "audio",
-        "metadata": "",
-        "name": "complete the game - pola selanjutnya.mp3",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": false
-      },
-      {
-        "file": "helloo - pola selanjutnya.mp3",
-        "kind": "audio",
-        "metadata": "",
-        "name": "helloo - pola selanjutnya.mp3",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": false
-      },
-      {
-        "file": "last right answer before next stage_lvl - pola selanjutnya.mp3",
-        "kind": "audio",
-        "metadata": "",
-        "name": "last right answer before next stage_lvl - pola selanjutnya.mp3",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": false
-      },
-      {
-        "file": "last right answer before next stage_lvl - pola selanjutnya2.mp3",
-        "kind": "audio",
-        "metadata": "",
-        "name": "last right answer before next stage_lvl - pola selanjutnya2.mp3",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": false
-      },
-      {
-        "file": "play the game.wav",
-        "kind": "audio",
-        "metadata": "",
-        "name": "play the game.wav",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": false
-      },
-      {
-        "file": "right answer - pola selanjutnya.mp3",
-        "kind": "audio",
-        "metadata": "",
-        "name": "right answer - pola selanjutnya.mp3",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": false
-      },
-      {
-        "file": "right answer - pola selanjutnya2.mp3",
-        "kind": "audio",
-        "metadata": "",
-        "name": "right answer - pola selanjutnya2.mp3",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": false
-      },
-      {
-        "file": "right answer - pola selanjutnya3.mp3",
-        "kind": "audio",
-        "metadata": "",
-        "name": "right answer - pola selanjutnya3.mp3",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": false
-      },
-      {
-        "file": "start the game - pola selanjutnya.MP3",
-        "kind": "audio",
-        "metadata": "",
-        "name": "start the game - pola selanjutnya.MP3",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": false
-      },
-      {
-        "file": "uh oh! wrong! - pola selanjutnya.mp3",
-        "kind": "audio",
-        "metadata": "",
-        "name": "uh oh! wrong! - pola selanjutnya.mp3",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": false
-      },
-      {
-        "file": "uh oh! wrong! - pola selanjutnya2.mp3",
-        "kind": "audio",
-        "metadata": "",
-        "name": "uh oh! wrong! - pola selanjutnya2.mp3",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": false
-      },
-      {
-        "file": "yeay! - pola selanjutnya (1).wav",
-        "kind": "audio",
-        "metadata": "",
-        "name": "yeay! - pola selanjutnya (1).wav",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": false
-      },
-      {
-        "file": "Isilah buku ini dengan cerita yang kamu buat.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Isilah buku ini dengan cerita yang kamu buat.png",
         "smoothed": true,
         "userAdded": false
       },
@@ -3496,15 +820,7 @@
       },
       {
         "disablePreload": false,
-        "file": "Story Dice.json",
-        "kind": "json",
-        "metadata": "",
-        "name": "Story Dice.json",
-        "userAdded": false
-      },
-      {
-        "disablePreload": false,
-        "file": "Story-Dice/random.json",
+        "file": "random.json",
         "kind": "json",
         "metadata": "",
         "name": "Story-Dice\\random.json",
@@ -3595,14 +911,6 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 274_20250813072922 2 (3).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "C:/Users/Aulia/Downloads/Senza titolo 277_20250814193946 2 (3).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "C:\\Users\\Aulia\\Downloads\\Senza titolo 277_20250814193946 2 (3).png",
         "smoothed": true,
         "userAdded": false
       },
@@ -3823,26 +1131,6 @@
         "userAdded": false
       },
       {
-        "file": "bgm main menu - story dice.wav",
-        "kind": "audio",
-        "metadata": "",
-        "name": "bgm main menu - story dice.wav",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": false
-      },
-      {
-        "file": "bgm main menu - story dice2.wav",
-        "kind": "audio",
-        "metadata": "",
-        "name": "bgm main menu - story dice2.wav",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": false
-      },
-      {
         "file": "assets/default10.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3864,14 +1152,6 @@
         "metadata": "{\"extension\":\".png\"}",
         "name": "default12",
         "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "disablePreload": false,
-        "file": "random.json",
-        "kind": "json",
-        "metadata": "",
-        "name": "random.json",
         "userAdded": false
       },
       {
@@ -3951,6 +1231,160 @@
         "kind": "image",
         "metadata": "",
         "name": "orqngggggggggggggg.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "dice rolling - story dice.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "dice rolling - story dice.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "bgm main menu - story dice (3).wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "bgm main menu - story dice (3).wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "start the game - story dice2.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "start the game - story dice2.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "press setting or credit - story dice2.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "press setting or credit - story dice2.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "ok button - story dice.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "ok button - story dice.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "select level - story dice.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "select level - story dice.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "bgm or sfx button - story dice.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "bgm or sfx button - story dice.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "tap anywhere to continue - story dice (1).wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "tap anywhere to continue - story dice (1).wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "back button - story dice (1).wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "back button - story dice (1).wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "bgm level1 -  story dice (1).wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "bgm level1 -  story dice (1).wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "tap anywhere to continue - story dice (1)2.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "tap anywhere to continue - story dice (1)2.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "bgm level2 - story dice.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "bgm level2 - story dice.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Senza titolo 358_20250819042624 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Senza titolo 358_20250819042624 1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "bgm level3 - story dice.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "bgm level3 - story dice.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Robot_20250814193959 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Robot_20250814193959 2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Robot_20250814193959 2 (1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Robot_20250814193959 2 (1).png",
         "smoothed": true,
         "userAdded": false
       }
@@ -5002,6 +2436,14 @@
       },
       "events": [
         {
+          "disabled": true,
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "audio"
+        },
+        {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -5016,14 +2458,47 @@
           "actions": [
             {
               "type": {
-                "value": "PlayMusic"
+                "value": "PlayMusicCanal"
               },
               "parameters": [
                 "",
-                "bgm main menu - story dice2.wav",
+                "bgm main menu - story dice (3).wav",
+                "2",
                 "yes",
-                "",
-                ""
+                "settings.BGM",
+                "1"
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "MusicPlaying"
+                  },
+                  "parameters": [
+                    "",
+                    "2"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlayMusicCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "bgm main menu - story dice (3).wav",
+                    "2",
+                    "yes",
+                    "settings.BGM",
+                    "1"
+                  ]
+                }
               ]
             }
           ]
@@ -5042,26 +2517,29 @@
               "conditions": [
                 {
                   "type": {
-                    "value": "SourisSurObjet"
+                    "value": "ButtonStates::ButtonFSM::IsClicked"
                   },
                   "parameters": [
                     "play",
-                    "",
-                    "",
+                    "ButtonFSM",
                     ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "MouseButtonFromTextReleased"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Left\""
                   ]
                 }
               ],
               "actions": [
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "start the game - story dice2.wav",
+                    "1",
+                    "no",
+                    "settings.SFX",
+                    "1"
+                  ]
+                },
                 {
                   "type": {
                     "value": "Scene"
@@ -5079,26 +2557,29 @@
               "conditions": [
                 {
                   "type": {
-                    "value": "SourisSurObjet"
+                    "value": "ButtonStates::ButtonFSM::IsClicked"
                   },
                   "parameters": [
                     "tombol_pengaturan",
-                    "",
-                    "",
+                    "ButtonFSM",
                     ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "MouseButtonFromTextReleased"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Left\""
                   ]
                 }
               ],
               "actions": [
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "press setting or credit - story dice2.mp3",
+                    "1",
+                    "no",
+                    "settings.SFX",
+                    "1"
+                  ]
+                },
                 {
                   "type": {
                     "value": "Scene"
@@ -5116,26 +2597,29 @@
               "conditions": [
                 {
                   "type": {
-                    "value": "SourisSurObjet"
+                    "value": "ButtonStates::ButtonFSM::IsClicked"
                   },
                   "parameters": [
                     "kredit",
-                    "",
-                    "",
+                    "ButtonFSM",
                     ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "MouseButtonFromTextReleased"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Left\""
                   ]
                 }
               ],
               "actions": [
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "press setting or credit - story dice2.mp3",
+                    "1",
+                    "no",
+                    "settings.SFX",
+                    "1"
+                  ]
+                },
                 {
                   "type": {
                     "value": "Scene"
@@ -5268,7 +2752,7 @@
       "name": "Pengaturan",
       "r": 209,
       "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
+      "stopSoundsOnStartup": false,
       "title": "",
       "v": 209,
       "uiSettings": {
@@ -7229,6 +4713,17 @@
                     "=",
                     "BGM.Value()"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "ModVolumeMusicCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "2",
+                    "=",
+                    "BGM.Value()"
+                  ]
                 }
               ]
             },
@@ -7252,6 +4747,17 @@
                   },
                   "parameters": [
                     "settings.SFX",
+                    "=",
+                    "SFX.Value()"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVolumeSoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "1",
                     "=",
                     "SFX.Value()"
                   ]
@@ -7295,6 +4801,19 @@
                 }
               ],
               "actions": [
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "ok button - story dice.wav",
+                    "1",
+                    "",
+                    "settings.SFX",
+                    "1"
+                  ]
+                },
                 {
                   "type": {
                     "value": "Scene"
@@ -7510,7 +5029,7 @@
       "name": "Menu",
       "r": 209,
       "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
+      "stopSoundsOnStartup": false,
       "title": "",
       "v": 209,
       "uiSettings": {
@@ -9344,7 +6863,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Lanjut Scene",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -9374,6 +6892,19 @@
                 }
               ],
               "actions": [
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "select level - story dice.wav",
+                    "1",
+                    "",
+                    "settings.SFX",
+                    "1"
+                  ]
+                },
                 {
                   "type": {
                     "value": "Scene"
@@ -9455,6 +6986,19 @@
                     }
                   ],
                   "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "select level - story dice.wav",
+                        "1",
+                        "",
+                        "settings.SFX",
+                        "1"
+                      ]
+                    },
                     {
                       "type": {
                         "value": "Scene"
@@ -9540,6 +7084,19 @@
                   "actions": [
                     {
                       "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "select level - story dice.wav",
+                        "1",
+                        "",
+                        "settings.SFX",
+                        "1"
+                      ]
+                    },
+                    {
+                      "type": {
                         "value": "Scene"
                       },
                       "parameters": [
@@ -9577,6 +7134,19 @@
                 }
               ],
               "actions": [
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "bgm or sfx button - story dice.wav",
+                    "1",
+                    "",
+                    "settings.SFX",
+                    "1"
+                  ]
+                },
                 {
                   "type": {
                     "value": "Scene"
@@ -10561,6 +8131,19 @@
               "actions": [
                 {
                   "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "tap anywhere to continue - story dice (1).wav",
+                    "1",
+                    "",
+                    "settings.SFX",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "Scene"
                   },
                   "parameters": [
@@ -10739,7 +8322,7 @@
               "name": "dadu_hewan"
             },
             {
-              "name": "hewan"
+              "name": "random_hewan"
             }
           ]
         },
@@ -10750,7 +8333,7 @@
               "name": "dadu_alam"
             },
             {
-              "name": "alam"
+              "name": "random_alam"
             }
           ]
         },
@@ -10758,7 +8341,7 @@
           "name": "bangunan2",
           "objects": [
             {
-              "name": "bangunan"
+              "name": "random_bangunan"
             },
             {
               "name": "dadu_bangunan"
@@ -10957,7 +8540,7 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "hewan",
+          "name": "random_hewan",
           "persistentUuid": "f0b67333-ebe6-4983-bd27-71e53a9e39df",
           "width": 0,
           "x": 184,
@@ -10978,7 +8561,7 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "bangunan",
+          "name": "random_bangunan",
           "persistentUuid": "68c6f496-49dd-4090-b6a3-e404e0e7c42c",
           "width": 0,
           "x": 535,
@@ -10999,7 +8582,7 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "alam",
+          "name": "random_alam",
           "persistentUuid": "15c6dabd-27bf-4b12-955e-171ab6e84e75",
           "width": 0,
           "x": 880,
@@ -11584,7 +9167,7 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "alam",
+          "name": "random_alam",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [
@@ -11601,6 +9184,12 @@
           ],
           "effects": [],
           "behaviors": [
+            {
+              "name": "Sticker",
+              "type": "Sticker::Sticker",
+              "OnlyFollowPosition": false,
+              "IsDestroyedWithParent": false
+            },
             {
               "name": "Tween",
               "type": "Tween::TweenBehavior"
@@ -11816,7 +9405,7 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "bangunan",
+          "name": "random_bangunan",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [
@@ -11833,6 +9422,12 @@
           ],
           "effects": [],
           "behaviors": [
+            {
+              "name": "Sticker",
+              "type": "Sticker::Sticker",
+              "OnlyFollowPosition": false,
+              "IsDestroyedWithParent": false
+            },
             {
               "name": "Tween",
               "type": "Tween::TweenBehavior"
@@ -12019,7 +9614,7 @@
         {
           "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "",
-          "name": "hewan",
+          "name": "random_hewan",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [
@@ -12036,6 +9631,12 @@
           ],
           "effects": [],
           "behaviors": [
+            {
+              "name": "Sticker",
+              "type": "Sticker::Sticker",
+              "OnlyFollowPosition": false,
+              "IsDestroyedWithParent": false
+            },
             {
               "name": "Tween",
               "type": "Tween::TweenBehavior"
@@ -12221,7 +9822,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Robot_20250814193959 2 (3).png",
+                      "image": "Robot_20250814193959 2 (1).png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -12426,13 +10027,13 @@
             "objectName": "bg"
           },
           {
-            "objectName": "alam"
+            "objectName": "random_alam"
           },
           {
-            "objectName": "bangunan"
+            "objectName": "random_bangunan"
           },
           {
-            "objectName": "hewan"
+            "objectName": "random_hewan"
           },
           {
             "objectName": "tombol_lempar_dadu"
@@ -12462,6 +10063,19 @@
             }
           ],
           "actions": [
+            {
+              "type": {
+                "value": "PlayMusicCanal"
+              },
+              "parameters": [
+                "",
+                "bgm level1 -  story dice (1).wav",
+                "4",
+                "yes",
+                "settings.BGM",
+                "1"
+              ]
+            },
             {
               "type": {
                 "value": "ActivateBehavior"
@@ -12556,7 +10170,7 @@
                     "value": "AnimatableCapability::AnimatableBehavior::SetName"
                   },
                   "parameters": [
-                    "hewan",
+                    "random_hewan",
                     "Animation",
                     "=",
                     "acak_json[1].random_hewan[random_sekarang]"
@@ -12577,7 +10191,7 @@
                     "value": "AnimatableCapability::AnimatableBehavior::SetName"
                   },
                   "parameters": [
-                    "alam",
+                    "random_alam",
                     "Animation",
                     "=",
                     "acak_json[0].random_alam[random_sekarang]"
@@ -12598,7 +10212,7 @@
                     "value": "AnimatableCapability::AnimatableBehavior::SetName"
                   },
                   "parameters": [
-                    "bangunan",
+                    "random_bangunan",
                     "Animation",
                     "=",
                     "acak_json[2].random_bangunan[random_sekarang]"
@@ -12696,9 +10310,9 @@
                     "value": "SetAngle"
                   },
                   "parameters": [
-                    "hewan",
+                    "random_hewan",
                     "=",
-                    "hewan.Variable(startAngle)"
+                    "random_hewan.Variable(startAngle)"
                   ]
                 },
                 {
@@ -12706,9 +10320,9 @@
                     "value": "SetAngle"
                   },
                   "parameters": [
-                    "alam",
+                    "random_alam",
                     "=",
-                    "alam.Variable(startAngle)"
+                    "random_alam.Variable(startAngle)"
                   ]
                 },
                 {
@@ -12716,9 +10330,9 @@
                     "value": "SetAngle"
                   },
                   "parameters": [
-                    "bangunan",
+                    "random_bangunan",
                     "=",
-                    "bangunan.Variable(startAngle)"
+                    "random_bangunan.Variable(startAngle)"
                   ]
                 },
                 {
@@ -12726,9 +10340,9 @@
                     "value": "MettreY"
                   },
                   "parameters": [
-                    "hewan",
+                    "random_hewan",
                     "=",
-                    "hewan.Variable(startY)"
+                    "random_hewan.Variable(startY)"
                   ]
                 },
                 {
@@ -12736,9 +10350,9 @@
                     "value": "MettreY"
                   },
                   "parameters": [
-                    "alam",
+                    "random_alam",
                     "=",
-                    "alam.Variable(startY)"
+                    "random_alam.Variable(startY)"
                   ]
                 },
                 {
@@ -12746,9 +10360,9 @@
                     "value": "MettreY"
                   },
                   "parameters": [
-                    "bangunan",
+                    "random_bangunan",
                     "=",
-                    "bangunan.Variable(startY)"
+                    "random_bangunan.Variable(startY)"
                   ]
                 },
                 {
@@ -12756,10 +10370,10 @@
                     "value": "Tween::TweenBehavior::AddObjectAngleTween2"
                   },
                   "parameters": [
-                    "hewan",
+                    "random_hewan",
                     "Tween",
                     "\"spin\"",
-                    "hewan.Angle()+360",
+                    "random_hewan.Angle() + 360",
                     "\"linear\"",
                     "0.4",
                     ""
@@ -12770,10 +10384,10 @@
                     "value": "Tween::TweenBehavior::AddObjectAngleTween2"
                   },
                   "parameters": [
-                    "alam",
+                    "random_alam",
                     "Tween",
                     "\"spin\"",
-                    "alam.Angle()+360",
+                    "random_alam.Angle() + 360",
                     "\"linear\"",
                     "0.4",
                     ""
@@ -12784,10 +10398,10 @@
                     "value": "Tween::TweenBehavior::AddObjectAngleTween2"
                   },
                   "parameters": [
-                    "bangunan",
+                    "random_bangunan",
                     "Tween",
                     "\"spin\"",
-                    "bangunan.Angle()+360",
+                    "random_bangunan.Angle() + 360",
                     "\"linear\"",
                     "0.4",
                     ""
@@ -12798,10 +10412,10 @@
                     "value": "SetNumberObjectVariable"
                   },
                   "parameters": [
-                    "hewan",
+                    "random_hewan",
                     "startY",
                     "=",
-                    "hewan.Y()"
+                    "random_hewan.Y()"
                   ]
                 },
                 {
@@ -12809,10 +10423,10 @@
                     "value": "SetNumberObjectVariable"
                   },
                   "parameters": [
-                    "hewan",
+                    "random_hewan",
                     "startAngle",
                     "=",
-                    "hewan.Angle()"
+                    "random_hewan.Angle()"
                   ]
                 },
                 {
@@ -12820,10 +10434,10 @@
                     "value": "SetNumberObjectVariable"
                   },
                   "parameters": [
-                    "bangunan",
+                    "random_bangunan",
                     "startAngle",
                     "=",
-                    "bangunan.Angle()"
+                    "random_bangunan.Angle()"
                   ]
                 },
                 {
@@ -12831,10 +10445,10 @@
                     "value": "SetNumberObjectVariable"
                   },
                   "parameters": [
-                    "bangunan",
+                    "random_bangunan",
                     "startY",
                     "=",
-                    "bangunan.Y()"
+                    "random_bangunan.Y()"
                   ]
                 },
                 {
@@ -12842,10 +10456,10 @@
                     "value": "SetNumberObjectVariable"
                   },
                   "parameters": [
-                    "alam",
+                    "random_alam",
                     "startAngle",
                     "=",
-                    "alam.Angle()"
+                    "random_alam.Angle()"
                   ]
                 },
                 {
@@ -12853,10 +10467,10 @@
                     "value": "SetNumberObjectVariable"
                   },
                   "parameters": [
-                    "alam",
+                    "random_alam",
                     "startY",
                     "=",
-                    "alam.Y()"
+                    "random_alam.Y()"
                   ]
                 },
                 {
@@ -12889,7 +10503,7 @@
                     "value": "Tween::HasFinished"
                   },
                   "parameters": [
-                    "hewan",
+                    "random_hewan",
                     "Tween",
                     "\"spin\""
                   ]
@@ -12922,7 +10536,7 @@
                     "value": "Tween::HasFinished"
                   },
                   "parameters": [
-                    "alam",
+                    "random_alam",
                     "Tween",
                     "\"spin\""
                   ]
@@ -12955,7 +10569,7 @@
                     "value": "Tween::HasFinished"
                   },
                   "parameters": [
-                    "bangunan",
+                    "random_bangunan",
                     "Tween",
                     "\"spin\""
                   ]
@@ -13043,10 +10657,10 @@
                         "value": "Tween::TweenBehavior::AddObjectAngleTween2"
                       },
                       "parameters": [
-                        "hewan",
+                        "random_hewan",
                         "Tween",
                         "\"spin\"",
-                        "hewan.Angle()+360",
+                        "random_hewan.Angle() + 360",
                         "\"linear\"",
                         "0.4",
                         ""
@@ -13057,10 +10671,10 @@
                         "value": "Tween::TweenBehavior::AddObjectAngleTween2"
                       },
                       "parameters": [
-                        "bangunan",
+                        "random_bangunan",
                         "Tween",
                         "\"spin\"",
-                        "bangunan.Angle()+360",
+                        "random_bangunan.Angle() + 360",
                         "\"linear\"",
                         "0.4",
                         ""
@@ -13071,10 +10685,10 @@
                         "value": "Tween::TweenBehavior::AddObjectAngleTween2"
                       },
                       "parameters": [
-                        "alam",
+                        "random_alam",
                         "Tween",
                         "\"spin\"",
-                        "alam.Angle()+360",
+                        "random_alam.Angle() + 360",
                         "\"linear\"",
                         "0.4",
                         ""
@@ -13102,10 +10716,10 @@
                             "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
                           },
                           "parameters": [
-                            "hewan",
+                            "random_hewan",
                             "Tween",
                             "\"fall\"",
-                            "hewan.Variable(startY)+300",
+                            "random_hewan.Variable(startY) + 300",
                             "\"easeInQuad\"",
                             "0.3",
                             ""
@@ -13116,10 +10730,10 @@
                             "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
                           },
                           "parameters": [
-                            "alam",
+                            "random_alam",
                             "Tween",
                             "\"fall\"",
-                            "alam.Variable(startY)+300",
+                            "random_alam.Variable(startY) + 300",
                             "\"easeInQuad\"",
                             "0.3",
                             ""
@@ -13130,10 +10744,10 @@
                             "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
                           },
                           "parameters": [
-                            "bangunan",
+                            "random_bangunan",
                             "Tween",
                             "\"fall\"",
-                            "bangunan.Variable(startY)+300",
+                            "random_bangunan.Variable(startY) + 300",
                             "\"easeInQuad\"",
                             "0.3",
                             ""
@@ -13153,7 +10767,7 @@
                     "value": "Tween::HasFinished"
                   },
                   "parameters": [
-                    "hewan",
+                    "random_hewan",
                     "Tween",
                     "\"fall\""
                   ]
@@ -13163,7 +10777,7 @@
                     "value": "Tween::HasFinished"
                   },
                   "parameters": [
-                    "alam",
+                    "random_alam",
                     "Tween",
                     "\"fall\""
                   ]
@@ -13173,7 +10787,7 @@
                     "value": "Tween::HasFinished"
                   },
                   "parameters": [
-                    "bangunan",
+                    "random_bangunan",
                     "Tween",
                     "\"fall\""
                   ]
@@ -13333,20 +10947,6 @@
                     "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
                   },
                   "parameters": [
-                    "hewan",
-                    "Tween",
-                    "\"jalan\"",
-                    "bukan",
-                    "\"linear\"",
-                    "2",
-                    "\"linear\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
-                  },
-                  "parameters": [
                     "dadu_hewan",
                     "Tween",
                     "\"jalan\"",
@@ -13358,24 +10958,10 @@
                 },
                 {
                   "type": {
-                    "value": "Tween::TweenBehavior::AddObjectAngleTween2"
-                  },
-                  "parameters": [
-                    "alam2",
-                    "Tween",
-                    "\"RotateRight\"",
-                    "putaran",
-                    "\"linear\"",
-                    "1",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
                     "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
                   },
                   "parameters": [
-                    "alam",
+                    "random_hewan",
                     "Tween",
                     "\"jalan\"",
                     "bukan",
@@ -13403,6 +10989,34 @@
                     "value": "Tween::TweenBehavior::AddObjectAngleTween2"
                   },
                   "parameters": [
+                    "alam2",
+                    "Tween",
+                    "\"RotateRight\"",
+                    "putaran",
+                    "\"linear\"",
+                    "1",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+                  },
+                  "parameters": [
+                    "random_alam",
+                    "Tween",
+                    "\"jalan\"",
+                    "bukan",
+                    "\"linear\"",
+                    "2",
+                    "\"linear\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectAngleTween2"
+                  },
+                  "parameters": [
                     "bangunan2",
                     "Tween",
                     "\"RotateRight\"",
@@ -13417,7 +11031,7 @@
                     "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
                   },
                   "parameters": [
-                    "bangunan",
+                    "random_bangunan",
                     "Tween",
                     "\"jalan\"",
                     "bukan",
@@ -13439,8 +11053,35 @@
                     "2",
                     "\"linear\""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "dice rolling - story dice.mp3",
+                    "1",
+                    "",
+                    "settings.SFX",
+                    "1"
+                  ]
                 }
               ]
+            },
+            {
+              "disabled": true,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": []
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -13450,7 +11091,7 @@
                     "value": "Tween::HasFinished"
                   },
                   "parameters": [
-                    "hewan",
+                    "random_hewan",
                     "Tween",
                     "\"RotateRight\""
                   ]
@@ -13461,7 +11102,7 @@
                     "value": "Tween::HasFinished"
                   },
                   "parameters": [
-                    "hewan",
+                    "random_hewan",
                     "Tween",
                     "\"jalan\""
                   ]
@@ -13550,7 +11191,7 @@
                     "value": "Tween::HasFinished"
                   },
                   "parameters": [
-                    "hewan",
+                    "random_hewan",
                     "Tween",
                     "\"RotateRight\""
                   ]
@@ -13560,7 +11201,7 @@
                     "value": "Tween::HasFinished"
                   },
                   "parameters": [
-                    "hewan",
+                    "random_hewan",
                     "Tween",
                     "\"jalan\""
                   ]
@@ -13661,6 +11302,19 @@
                 }
               ],
               "actions": [
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "back button - story dice (1).wav",
+                    "3",
+                    "",
+                    "settings.SFX",
+                    "1"
+                  ]
+                },
                 {
                   "type": {
                     "value": "Scene"
@@ -13771,6 +11425,10 @@
         {
           "name": "Scale",
           "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "Sticker",
+          "type": "Sticker::Sticker"
         },
         {
           "name": "Sway",
@@ -14489,11 +12147,6 @@
               ]
             }
           ],
-          "actions": []
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
           "actions": [
             {
               "type": {
@@ -14525,6 +12178,19 @@
             }
           ],
           "actions": [
+            {
+              "type": {
+                "value": "PlayMusicCanal"
+              },
+              "parameters": [
+                "",
+                "tap anywhere to continue - story dice (1)2.wav",
+                "2",
+                "",
+                "settings.SFX",
+                "1"
+              ]
+            },
             {
               "type": {
                 "value": "Scene"
@@ -17069,6 +14735,19 @@
           "actions": [
             {
               "type": {
+                "value": "PlayMusicCanal"
+              },
+              "parameters": [
+                "",
+                "bgm level2 - story dice.mp3",
+                "2",
+                "",
+                "settings.BGM",
+                "1"
+              ]
+            },
+            {
+              "type": {
                 "value": "ActivateBehavior"
               },
               "parameters": [
@@ -17528,6 +15207,27 @@
                   "parameters": [
                     "tombol_lempar_dadu"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "dice rolling - story dice.mp3",
+                    "1",
+                    "",
+                    "settings.SFX",
+                    "1"
+                  ]
                 }
               ]
             },
@@ -17776,6 +15476,19 @@
               "actions": [
                 {
                   "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "back button - story dice (1).wav",
+                    "1",
+                    "",
+                    "settings.SFX",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "Scene"
                   },
                   "parameters": [
@@ -17896,15 +15609,15 @@
       ]
     },
     {
-      "b": 209,
+      "b": 255,
       "disableInputWhenNotFocused": true,
       "mangledName": "Level_953",
       "name": "Level_3",
-      "r": 209,
+      "r": 255,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
-      "v": 209,
+      "v": 255,
       "uiSettings": {
         "grid": false,
         "gridType": "rectangular",
@@ -18101,7 +15814,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Story-Dice\\assets\\Senza titolo 358_20250819042624 1 (1).png",
+                      "image": "Senza titolo 358_20250819042624 1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -18492,7 +16205,22 @@
               ]
             }
           ],
-          "actions": []
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+              },
+              "parameters": [
+                "cahaya",
+                "Tween",
+                "\"animasi\"",
+                "255",
+                "\"linear\"",
+                "1",
+                ""
+              ]
+            }
+          ]
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -18510,31 +16238,24 @@
           "actions": [
             {
               "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "tap anywhere to continue - story dice (1).wav",
+                "1",
+                "",
+                "settings.SFX",
+                "1"
+              ]
+            },
+            {
+              "type": {
                 "value": "Scene"
               },
               "parameters": [
                 "",
                 "\"Dadu_3\"",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [
-            {
-              "type": {
-                "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
-              },
-              "parameters": [
-                "cahaya",
-                "Tween",
-                "\"animasi\"",
-                "255",
-                "\"linear\"",
-                "1",
                 ""
               ]
             }
@@ -20899,6 +18620,19 @@
           "actions": [
             {
               "type": {
+                "value": "PlayMusicCanal"
+              },
+              "parameters": [
+                "",
+                "bgm level3 - story dice.wav",
+                "2",
+                "",
+                "settings.BGM",
+                "1"
+              ]
+            },
+            {
+              "type": {
                 "value": "ActivateBehavior"
               },
               "parameters": [
@@ -21448,6 +19182,27 @@
                   "parameters": [
                     "tombol_lempar_dadu"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "dice rolling - story dice.mp3",
+                    "1",
+                    "",
+                    "settings.SFX",
+                    "1"
+                  ]
                 }
               ]
             },
@@ -21720,6 +19475,19 @@
               "actions": [
                 {
                   "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "back button - story dice (1).wav",
+                    "1",
+                    "",
+                    "settings.SFX",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "Scene"
                   },
                   "parameters": [
@@ -21962,7 +19730,79 @@
       "behaviorsSharedData": []
     }
   ],
-  "externalEvents": [],
+  "externalEvents": [
+    {
+      "associatedLayout": "HomePage",
+      "name": "audio",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlayMusicCanal"
+              },
+              "parameters": [
+                "",
+                "bgm main menu - story dice (3).wav",
+                "2",
+                "yes",
+                "settings.BGM",
+                "1"
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "MusicPlaying"
+                  },
+                  "parameters": [
+                    "",
+                    "2"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlayMusicCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "bgm main menu - story dice (3).wav",
+                    "2",
+                    "yes",
+                    "settings.BGM",
+                    "1"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        }
+      ]
+    }
+  ],
   "eventsFunctionsExtensions": [
     {
       "author": "",
@@ -53335,6 +51175,654 @@
           ]
         }
       ]
+    },
+    {
+      "author": "D8H",
+      "category": "Movement",
+      "extensionNamespace": "",
+      "fullName": "Stick objects to others",
+      "gdevelopVersion": ">=5.5.222",
+      "helpPath": "",
+      "iconUrl": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiBpZD0ibWRpLXN0aWNrZXItb3V0bGluZSIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Ik01LjUgMkMzLjYgMiAyIDMuNiAyIDUuNVYxOC41QzIgMjAuNCAzLjYgMjIgNS41IDIySDE2TDIyIDE2VjUuNUMyMiAzLjYgMjAuNCAyIDE4LjUgMkg1LjVNNS44IDRIMTguM0MxOS4zIDQgMjAuMSA0LjggMjAuMSA1LjhWMTVIMTguNkMxNi43IDE1IDE1LjEgMTYuNiAxNS4xIDE4LjVWMjBINS44QzQuOCAyMCA0IDE5LjIgNCAxOC4yVjUuOEM0IDQuOCA0LjggNCA1LjggNCIgLz48L3N2Zz4=",
+      "name": "Sticker",
+      "previewIconUrl": "https://resources.gdevelop-app.com/assets/Icons/sticker-outline.svg",
+      "shortDescription": "Make objects follow the position and rotation of the object they are stuck to.",
+      "version": "0.5.4",
+      "description": [
+        "This extension can be useful to:",
+        "- Stick accessories to moving objects",
+        "- Animate a skeleton",
+        "- Delete an object with another one",
+        "",
+        "An example allows to check it out ([open the project online](https://editor.gdevelop.io/?project=example://stick-objects))."
+      ],
+      "origin": {
+        "identifier": "Sticker",
+        "name": "gdevelop-extension-store"
+      },
+      "tags": [
+        "sticker",
+        "stick",
+        "follow",
+        "skeleton",
+        "joint",
+        "pin",
+        "bind",
+        "glue",
+        "tie",
+        "attach",
+        "hold",
+        "paste",
+        "wear"
+      ],
+      "authorIds": [
+        "IWykYNRvhCZBN3vEgKEbBPOR3Oc2"
+      ],
+      "dependencies": [],
+      "globalVariables": [],
+      "sceneVariables": [],
+      "eventsFunctions": [
+        {
+          "description": "Define helper classes JavaScript code.",
+          "fullName": "Define helper classes",
+          "functionType": "Action",
+          "name": "DefineHelperClasses",
+          "private": true,
+          "sentence": "Define helper classes JavaScript code",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "if (gdjs._stickerExtension) {",
+                "    return;",
+                "}",
+                "",
+                "// Unstick from deleted objects.",
+                "gdjs.registerObjectDeletedFromSceneCallback(function (runtimeScene, deletedObject) {",
+                "    const extension = runtimeScene._stickerExtension;",
+                "    if (!extension) {",
+                "        return;",
+                "    }",
+                "    /** @type {Set<gdjs.RuntimeBehavior>} */",
+                "    const allStickers = runtimeScene._stickerExtension.allStickers;",
+                "    for (const behavior of allStickers) {",
+                "        /** @type {Sticker} */",
+                "        const sticker = behavior._sticker;",
+                "        if (sticker.isStuckTo(deletedObject)) {",
+                "            if (behavior._getIsDestroyedWithParent()) {",
+                "                behavior.owner.deleteFromScene(runtimeScene);",
+                "            }",
+                "            sticker.unstick();",
+                "        }",
+                "    }",
+                "});",
+                "",
+                "class Sticker {",
+                "    /** @type {gdjs.RuntimeBehavior} */",
+                "    behavior;",
+                "    /** @type {gdjs.RuntimeObject | null} */",
+                "    basisObject;",
+                "    followingDoneThisFrame = false;",
+                "    relativeX = 0;",
+                "    relativeY = 0;",
+                "    relativeAngle = 0;",
+                "    relativeRotatedX = 0;",
+                "    relativeRotatedY = 0;",
+                "    basisOldX = 0;",
+                "    basisOldY = 0;",
+                "    basisOldAngle = 0;",
+                "    basisOldWidth = 0;",
+                "    basisOldHeight = 0;",
+                "    basisOldCenterXInScene = 0;",
+                "    basisOldCenterYInScene = 0;",
+                "",
+                "    /**",
+                "     * @param {gdjs.RuntimeBehavior} behavior",
+                "     */",
+                "    constructor(behavior) {",
+                "        this.behavior = behavior;",
+                "    }",
+                "",
+                "    /**",
+                "     * @param {gdjs.RuntimeObject} basisObject",
+                "     */",
+                "    isStuckTo(basisObject) {",
+                "        return this.basisObject === basisObject;",
+                "    }",
+                "",
+                "    /**",
+                "     * @param {gdjs.RuntimeObject} basisObject",
+                "     */",
+                "    stickTo(basisObject) {",
+                "        this.basisObject = basisObject;",
+                "        this.updateOldCoordinates();",
+                "        this.updateRelativeCoordinates();",
+                "    }",
+                "",
+                "    unstick() {",
+                "        this.basisObject = null;",
+                "    }",
+                "",
+                "    onStepPreEvents() {",
+                "        this.followingDoneThisFrame = false;",
+                "    }",
+                "",
+                "    /**",
+                "     * Update the coordinates in the basisObject basis.",
+                "     * ",
+                "     * It uses the basisObject coordinates from the previous frame.",
+                "     * This way, the sticker can move relatively to it and still",
+                "     * follow basisObject.",
+                "     * ",
+                "     * @param {gdjs.RuntimeObject} basisObject",
+                "     */",
+                "    updateRelativeCoordinates() {",
+                "        const object = this.behavior.owner;",
+                "",
+                "        // Update relative coordinates",
+                "        this.relativeX = object.getX() - this.basisOldX;",
+                "        this.relativeY = object.getY() - this.basisOldY;",
+                "        if (!this.behavior._getOnlyFollowPosition()) {",
+                "            this.relativeAngle = object.getAngle() - this.basisOldAngle;",
+                "            this.relativeWidth = object.getWidth() / this.basisOldWidth;",
+                "            this.relativeHeight = object.getHeight() / this.basisOldHeight;",
+                "            const deltaX = object.getCenterXInScene() - this.basisOldCenterXInScene;",
+                "            const deltaY = object.getCenterYInScene() - this.basisOldCenterYInScene;",
+                "            const angle = this.basisOldAngle * Math.PI / 180;",
+                "            const cosA = Math.cos(angle);",
+                "            const sinA = Math.sin(angle);",
+                "            this.relativeRotatedX = (deltaX * cosA + deltaY * sinA) / this.basisOldWidth;",
+                "            this.relativeRotatedY = (-deltaX * sinA + deltaY * cosA) / this.basisOldHeight;",
+                "",
+                "            // Save initial values to avoid calculus and rounding errors",
+                "            this.basisOriginalWidth = this.basisObject.getWidth();",
+                "            this.basisOriginalHeight = this.basisObject.getHeight();",
+                "            this.basisOriginalAngle = this.basisObject.getAngle();",
+                "        }",
+                "    }",
+                "",
+                "    /**",
+                "     * Copy the coordinates to use it the next frame.",
+                "     */",
+                "    updateOldCoordinates() {",
+                "        const object = this.behavior.owner;",
+                "",
+                "        this.ownerOldX = object.getX();",
+                "        this.ownerOldY = object.getY();",
+                "",
+                "        this.basisOldX = this.basisObject.getX();",
+                "        this.basisOldY = this.basisObject.getY();",
+                "",
+                "        if (!this.behavior._getOnlyFollowPosition()) {",
+                "            this.ownerOldAngle = object.getAngle();",
+                "            this.ownerOldWidth = object.getWidth();",
+                "            this.ownerOldHeight = object.getHeight();",
+                "",
+                "            this.basisOldAngle = this.basisObject.getAngle();",
+                "            this.basisOldWidth = this.basisObject.getWidth();",
+                "            this.basisOldHeight = this.basisObject.getHeight();",
+                "            this.basisOldCenterXInScene = this.basisObject.getCenterXInScene();",
+                "            this.basisOldCenterYInScene = this.basisObject.getCenterYInScene();",
+                "        }",
+                "    }",
+                "",
+                "    /**",
+                "     * Follow the basisObject (called in doStepPostEvents).",
+                "     * ",
+                "     * This method is also called by children to ensure",
+                "     * parents are updated first.",
+                "     */",
+                "    followBasisObject() {",
+                "        if (this.followingDoneThisFrame) {",
+                "            return;",
+                "        }",
+                "        this.followingDoneThisFrame = true;",
+                "        const basisObject = this.basisObject;",
+                "        if (!basisObject) {",
+                "            return;",
+                "        }",
+                "        // If the behavior on the basis object has a different name,",
+                "        // the objects will still follow their basis objects",
+                "        // but frame delays could happen.",
+                "        const behaviorName = this.behavior.getName();",
+                "        if (basisObject.hasBehavior(behaviorName)) {",
+                "            const basisBehavior = basisObject.getBehavior(behaviorName);",
+                "            if (basisBehavior.type === this.behavior.type) {",
+                "                // Follow parents 1st to avoid frame delays",
+                "                basisBehavior._sticker.followBasisObject();",
+                "            }",
+                "        }",
+                "        if (this.behavior._getOnlyFollowPosition()) {",
+                "            this.followPosition();",
+                "        } else {",
+                "            this.followTransformation();",
+                "        }",
+                "        this.updateOldCoordinates();",
+                "    }",
+                "",
+                "    followPosition() {",
+                "        const object = this.behavior.owner;",
+                "        const basisObject = this.basisObject;",
+                "        if (!basisObject) {",
+                "            return;",
+                "        }",
+                "        if (object.getX() !== this.ownerOldX",
+                "            || object.getY() !== this.ownerOldY) {",
+                "            this.updateRelativeCoordinates();",
+                "        }",
+                "        if (this.basisOldX !== basisObject.getX()",
+                "            || this.basisOldY !== basisObject.getY()) {",
+                "            object.setPosition(",
+                "                basisObject.getX() + this.relativeX,",
+                "                basisObject.getY() + this.relativeY);",
+                "        }",
+                "    }",
+                "",
+                "    followTransformation() {",
+                "        const object = this.behavior.owner;",
+                "        const basisObject = this.basisObject;",
+                "        if (!basisObject) {",
+                "            return;",
+                "        }",
+                "        if (object.getX() !== this.ownerOldX",
+                "            || object.getY() !== this.ownerOldY",
+                "            || object.getAngle() !== this.ownerOldAngle",
+                "            || object.getWidth() !== this.ownerOldWidth",
+                "            || object.getHeight() !== this.ownerOldHeight) {",
+                "            this.updateRelativeCoordinates();",
+                "        }",
+                "        if (this.basisOldAngle !== this.basisObject.getAngle()",
+                "            || this.basisOldWidth !== this.basisObject.getWidth()",
+                "            || this.basisOldHeight !== this.basisObject.getHeight()",
+                "            || this.basisOldCenterXInScene !== this.basisObject.getCenterXInScene()",
+                "            || this.basisOldCenterYInScene !== this.basisObject.getCenterYInScene()) {",
+                "            // Unproportional dimensions changes won't work as expected",
+                "            // if the object angle is not null but nothing more can be done",
+                "            // because there is no full affine transformation on objects.",
+                "            if (basisObject.getWidth() !== this.basisOriginalWidth) {",
+                "                object.setWidth(this.relativeWidth * basisObject.getWidth());",
+                "            }",
+                "            if (basisObject.getHeight() !== this.basisOriginalHeight) {",
+                "                object.setHeight(this.relativeHeight * basisObject.getHeight());",
+                "            }",
+                "            // Follow basisObject",
+                "            if (basisObject.getAngle() === this.basisOriginalAngle",
+                "                && this.basisOriginalAngle === 0) {",
+                "                if (basisObject.getWidth() === this.basisOriginalWidth",
+                "                    || basisObject.getHeight() === this.basisOriginalHeight) {",
+                "                    if (this.basisOldX !== basisObject.getX() ||",
+                "                        this.basisOldY !== basisObject.getY()) {",
+                "                        object.setPosition(",
+                "                            basisObject.getX() + this.relativeX,",
+                "                            basisObject.getY() + this.relativeY);",
+                "                    }",
+                "                } else {",
+                "                    object.setCenterPositionInScene(",
+                "                        basisObject.getCenterXInScene() + this.relativeRotatedX * basisObject.getWidth(),",
+                "                        basisObject.getCenterYInScene() + this.relativeRotatedY * basisObject.getHeight());",
+                "                }",
+                "            } else {",
+                "                object.setAngle(basisObject.getAngle() + this.relativeAngle);",
+                "",
+                "                const deltaX = this.relativeRotatedX * basisObject.getWidth();",
+                "                const deltaY = this.relativeRotatedY * basisObject.getHeight();",
+                "                const angle = -basisObject.getAngle() * Math.PI / 180;",
+                "                const cosA = Math.cos(angle);",
+                "                const sinA = Math.sin(angle);",
+                "                object.setX(",
+                "                    basisObject.getCenterXInScene() + object.getX() - object.getCenterXInScene()",
+                "                    + deltaX * cosA + deltaY * sinA);",
+                "                object.setY(",
+                "                    basisObject.getCenterYInScene() + object.getY() - object.getCenterYInScene()",
+                "                    - deltaX * sinA + deltaY * cosA);",
+                "            }",
+                "        }",
+                "    }",
+                "}",
+                "",
+                "gdjs._stickerExtension = {",
+                "    Sticker",
+                "}"
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": true
+            }
+          ],
+          "parameters": [],
+          "objectGroups": []
+        },
+        {
+          "description": "Check if the object is stuck to another object.",
+          "fullName": "Is stuck to another object",
+          "functionType": "Condition",
+          "name": "IsStuck",
+          "sentence": "_PARAM1_ is stuck to _PARAM3_",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "const stickerBehaviorName = eventsFunctionContext.getBehaviorName(\"Behavior\");",
+                "/** @type {Hashtable<gdjs.RuntimeObject[]>} */",
+                "const stickerObjectsLists = eventsFunctionContext.getObjectsLists(\"Object\");",
+                "/** @type {Hashtable<gdjs.RuntimeObject[]>} */",
+                "const basisObjectsLists = eventsFunctionContext.getObjectsLists(\"BasisObject\");",
+                "",
+                "eventsFunctionContext.returnValue = gdjs.evtTools.object.twoListsTest(",
+                "  (stickerObject, basisObject) => {",
+                "    const sticker = stickerObject.getBehavior(stickerBehaviorName)._sticker;",
+                "    return sticker.isStuckTo(basisObject);",
+                "  },",
+                "  stickerObjectsLists,",
+                "  basisObjectsLists,",
+                "  false",
+                ");"
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": true
+            }
+          ],
+          "parameters": [
+            {
+              "description": "Sticker",
+              "name": "Object",
+              "type": "objectList"
+            },
+            {
+              "description": "Sticker behavior",
+              "name": "Behavior",
+              "supplementaryInformation": "Sticker::Sticker",
+              "type": "behavior"
+            },
+            {
+              "description": "Basis",
+              "name": "BasisObject",
+              "type": "objectList"
+            }
+          ],
+          "objectGroups": []
+        }
+      ],
+      "eventsBasedBehaviors": [
+        {
+          "description": "Stick the object to another. Use the action to stick the object, or unstick it later.",
+          "fullName": "Sticker",
+          "name": "Sticker",
+          "objectType": "",
+          "quickCustomizationVisibility": "hidden",
+          "eventsFunctions": [
+            {
+              "fullName": "",
+              "functionType": "Action",
+              "name": "onCreated",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Sticker::DefineHelperClasses"
+                      },
+                      "parameters": [
+                        "",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::JsCode",
+                  "inlineCode": [
+                    "const Sticker = gdjs._stickerExtension.Sticker;",
+                    "",
+                    "const behaviorName = eventsFunctionContext.getBehaviorName(\"Behavior\");",
+                    "const object = objects[0];",
+                    "const behavior = object.getBehavior(behaviorName);",
+                    "",
+                    "behavior._sticker = new Sticker(behavior);",
+                    "",
+                    "// Set up the scene sticker objects list - if not done already.",
+                    "runtimeScene._stickerExtension = runtimeScene._stickerExtension || {",
+                    "    allStickers: new Set(),",
+                    "};",
+                    "// Register this object as a sticker.",
+                    "/** @type {Set<gdjs.RuntimeBehavior>} */",
+                    "const allStickers = runtimeScene._stickerExtension.allStickers;",
+                    "allStickers.add(behavior);",
+                    ""
+                  ],
+                  "parameterObjects": "Object",
+                  "useStrict": true,
+                  "eventsSheetExpanded": true
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "Sticker::Sticker",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "fullName": "",
+              "functionType": "Action",
+              "name": "doStepPreEvents",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::JsCode",
+                  "inlineCode": [
+                    "const behaviorName = eventsFunctionContext.getBehaviorName(\"Behavior\");",
+                    "const object = objects[0];",
+                    "const behavior = object.getBehavior(behaviorName);",
+                    "",
+                    "behavior._sticker.onStepPreEvents();"
+                  ],
+                  "parameterObjects": "Object",
+                  "useStrict": true,
+                  "eventsSheetExpanded": false
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "Sticker::Sticker",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "fullName": "",
+              "functionType": "Action",
+              "name": "doStepPostEvents",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::JsCode",
+                  "inlineCode": [
+                    "const behaviorName = eventsFunctionContext.getBehaviorName(\"Behavior\");",
+                    "const object = objects[0];",
+                    "const behavior = object.getBehavior(behaviorName);",
+                    "",
+                    "behavior._sticker.followBasisObject();"
+                  ],
+                  "parameterObjects": "Object",
+                  "useStrict": true,
+                  "eventsSheetExpanded": true
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "Sticker::Sticker",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Stick on another object.",
+              "fullName": "Stick",
+              "functionType": "Action",
+              "name": "Stick",
+              "sentence": "Stick _PARAM0_ to _PARAM2_",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::JsCode",
+                  "inlineCode": [
+                    "const object = objects[0];",
+                    "const behaviorName = eventsFunctionContext.getBehaviorName(\"Behavior\");",
+                    "const basisObjects = eventsFunctionContext.getObjects(\"BasisObject\");",
+                    "",
+                    "if (basisObjects.length === 0) return;",
+                    "// An object can stick to only one object.",
+                    "const basisObject = basisObjects[0];",
+                    "object.getBehavior(behaviorName)._sticker.stickTo(basisObject);",
+                    ""
+                  ],
+                  "parameterObjects": "Object",
+                  "useStrict": true,
+                  "eventsSheetExpanded": true
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "Sticker::Sticker",
+                  "type": "behavior"
+                },
+                {
+                  "description": "Object to stick to",
+                  "name": "BasisObject",
+                  "type": "objectList"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Unstick from the object it was stuck to.",
+              "fullName": "Unstick",
+              "functionType": "Action",
+              "name": "Unstick",
+              "sentence": "Unstick _PARAM0_",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::JsCode",
+                  "inlineCode": [
+                    "const object = objects[0];",
+                    "const behaviorName = eventsFunctionContext.getBehaviorName(\"Behavior\");",
+                    "const behavior = object.getBehavior(behaviorName);",
+                    "",
+                    "object.getBehavior(behaviorName)._sticker.unstick();",
+                    ""
+                  ],
+                  "parameterObjects": "Object",
+                  "useStrict": true,
+                  "eventsSheetExpanded": true
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "Sticker::Sticker",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "fullName": "",
+              "functionType": "Action",
+              "name": "onDestroy",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::JsCode",
+                  "inlineCode": [
+                    "const behaviorName = eventsFunctionContext.getBehaviorName(\"Behavior\");",
+                    "const object = objects[0];",
+                    "const behavior = object.getBehavior(behaviorName);",
+                    "",
+                    "/** @type {Set<gdjs.RuntimeBehavior>} */",
+                    "const allStickers = runtimeScene._stickerExtension.allStickers;",
+                    "allStickers.delete(behavior);",
+                    ""
+                  ],
+                  "parameterObjects": "Object",
+                  "useStrict": true,
+                  "eventsSheetExpanded": true
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "Sticker::Sticker",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            }
+          ],
+          "propertyDescriptors": [
+            {
+              "value": "",
+              "type": "Boolean",
+              "label": "Only follow the position",
+              "name": "OnlyFollowPosition"
+            },
+            {
+              "value": "",
+              "type": "Boolean",
+              "label": "Destroy when the object it's stuck on is destroyed",
+              "name": "IsDestroyedWithParent"
+            }
+          ],
+          "sharedPropertyDescriptors": []
+        }
+      ],
+      "eventsBasedObjects": []
     }
   ],
   "externalLayouts": []
