@@ -1645,6 +1645,22 @@
         "preloadAsSound": false,
         "preloadInCache": false,
         "userAdded": false
+      },
+      {
+        "file": "Senza titolo 369_20250819084748 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Senza titolo 369_20250819084748 1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Group 4 (3).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Group 4 (3).png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -5211,12 +5227,18 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.4335774304702372,
+        "zoomFactor": 0.3437520241612315,
         "windowMask": false,
         "selectedLayer": ""
       },
       "objectsGroups": [],
-      "variables": [],
+      "variables": [
+        {
+          "name": "First",
+          "type": "boolean",
+          "value": false
+        }
+      ],
       "instances": [
         {
           "angle": 0,
@@ -5225,11 +5247,27 @@
           "height": 720,
           "layer": "",
           "name": "bg",
-          "persistentUuid": "192df11c-a07b-441c-b088-cd2fc78e0e17",
-          "width": 1280,
-          "x": 0,
+          "persistentUuid": "dceb4ef1-7b80-4f57-9f33-49c64b3b4ea8",
+          "width": 1302,
+          "x": -10,
           "y": 0,
           "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 535,
+          "layer": "",
+          "name": "tanah",
+          "persistentUuid": "5e149a52-65be-4f2d-85b5-2de7c01da9b6",
+          "width": 1302,
+          "x": -9,
+          "y": 186,
+          "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5240,80 +5278,140 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "back",
-          "persistentUuid": "29d34f3e-6a59-43c5-8db4-d904809e35d3",
-          "width": 0,
-          "x": 1141,
-          "y": 589,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 254,
-          "keepRatio": true,
-          "layer": "",
-          "name": "nama",
-          "persistentUuid": "e0a03021-7b08-4468-bef1-2e6617b7dfa2",
-          "width": 445,
-          "x": 115,
-          "y": 138,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 254,
-          "keepRatio": true,
-          "layer": "",
-          "name": "nama",
-          "persistentUuid": "b3a08719-0dd4-47b6-bbd6-2408eeaf2dbe",
-          "width": 445,
-          "x": 725,
-          "y": 138,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 254,
-          "keepRatio": true,
-          "layer": "",
-          "name": "nama",
-          "persistentUuid": "fe9725e2-7647-47c6-b3e1-4580f5ec7776",
-          "width": 445,
-          "x": 408,
-          "y": 427,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 64,
-          "keepRatio": true,
-          "layer": "",
           "name": "judul",
-          "persistentUuid": "ba3710d6-7b3e-4519-b789-7c21aee0a317",
-          "width": 705,
-          "x": 320,
-          "y": 32,
+          "persistentUuid": "cb63fa65-0541-4922-8bd5-34101f42d37c",
+          "width": 0,
+          "x": 46,
+          "y": 36,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "play",
+          "persistentUuid": "e69e9a3f-9e7b-474e-a310-dce3485d4b22",
+          "width": 0,
+          "x": 230,
+          "y": 262,
           "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "pengaturan",
+          "persistentUuid": "44bc9bb9-4a9b-457e-8cbb-3ee95c1abdd7",
+          "width": 0,
+          "x": 201,
+          "y": 481,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "kredit",
+          "persistentUuid": "950f50ff-ba48-4b97-a789-cd27ab41d722",
+          "width": 0,
+          "x": 88,
+          "y": 571,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": -0.17,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "cewe",
+          "persistentUuid": "8b3e3a59-fbc8-4184-8585-d0eec1adfca1",
+          "width": 0,
+          "x": 524,
+          "y": 185,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 1.67,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "cowo",
+          "persistentUuid": "cfa879da-728d-4310-a93c-f7660cbff4a6",
+          "width": 0,
+          "x": 885.05,
+          "y": 58,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "kucing",
+          "persistentUuid": "3fa31192-ae7c-42ac-a0d2-4405f2f26617",
+          "width": 0,
+          "x": 1043,
+          "y": 387,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "papan",
+          "persistentUuid": "93394437-c194-493d-b3b3-235a5b1ff545",
+          "width": 0,
+          "x": 0,
+          "y": 0,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "tombol_ok",
+          "persistentUuid": "1963d59a-5f2b-4443-b3c4-e76440e2f1cb",
+          "width": 0,
+          "x": 534,
+          "y": 447,
+          "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5327,21 +5425,50 @@
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
-          "effects": [],
-          "behaviors": [],
+          "effects": [
+            {
+              "effectType": "Blur",
+              "name": "Effect",
+              "doubleParameters": {
+                "blur": 5,
+                "kernelSize": 5,
+                "quality": 1,
+                "resolution": 2
+              },
+              "stringParameters": {},
+              "booleanParameters": {}
+            }
+          ],
+          "behaviors": [
+            {
+              "name": "EllipseMovement",
+              "type": "EllipseMovement::EllipseMovement",
+              "RadiusX": 5,
+              "RadiusY": 0,
+              "LoopDuration": 3,
+              "InitialTurningLeft": false,
+              "InitialDirectionAngle": 0,
+              "ShouldRotate": false,
+              "RotationOffset": 0,
+              "CenterX": 0,
+              "CenterY": 0,
+              "MovementAngle": 0,
+              "OldX": 2.0247e-320,
+              "OldY": 2.0247e-320
+            }
+          ],
           "animations": [
             {
-              "name": "NewSprite",
+              "name": "default",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
-                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": false,
-                      "image": "NewSprite3",
+                      "hasCustomCollisionMask": true,
+                      "image": "Story-Dice\\assets\\Senza titolo 331_20250818073415 1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5354,7 +5481,26 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1280,
+                            "y": 0
+                          },
+                          {
+                            "x": 1280,
+                            "y": 720
+                          },
+                          {
+                            "x": 0,
+                            "y": 720
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -5365,7 +5511,735 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "back",
+          "name": "tanah",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [
+            {
+              "effectType": "Blur",
+              "name": "Effect",
+              "doubleParameters": {
+                "blur": 5,
+                "kernelSize": 5,
+                "quality": 1,
+                "resolution": 2
+              },
+              "stringParameters": {},
+              "booleanParameters": {}
+            }
+          ],
+          "behaviors": [
+            {
+              "name": "EllipseMovement",
+              "type": "EllipseMovement::EllipseMovement",
+              "RadiusX": 5,
+              "RadiusY": 0,
+              "LoopDuration": 3,
+              "InitialTurningLeft": false,
+              "InitialDirectionAngle": 0,
+              "ShouldRotate": false,
+              "RotationOffset": 0,
+              "CenterX": 0,
+              "CenterY": 0,
+              "MovementAngle": 0,
+              "OldX": 2.0247e-320,
+              "OldY": 2.0247e-320
+            }
+          ],
+          "animations": [
+            {
+              "name": "default",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Story-Dice\\assets\\Senza titolo 332_20250818073506 1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 19
+                          },
+                          {
+                            "x": 1280,
+                            "y": 19
+                          },
+                          {
+                            "x": 1280,
+                            "y": 535
+                          },
+                          {
+                            "x": 0,
+                            "y": 535
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "judul",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [
+            {
+              "effectType": "Blur",
+              "name": "Effect",
+              "doubleParameters": {
+                "blur": 5,
+                "kernelSize": 5,
+                "quality": 1,
+                "resolution": 2
+              },
+              "stringParameters": {},
+              "booleanParameters": {}
+            }
+          ],
+          "behaviors": [
+            {
+              "name": "Sway",
+              "type": "Sway::Sway",
+              "Scale": "Scale",
+              "TweenBehavior": "Tween",
+              "AngleLeft": -2,
+              "AngleRight": 2,
+              "AngleTimeMin": 1,
+              "AngleTimeMax": 3,
+              "YScaleMin": 1,
+              "YScaleMax": 1.05,
+              "YScaleTimeMin": 1,
+              "YScaleTimeMax": 3
+            },
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "default",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Story-Dice\\assets\\Senza titolo 322_20250818072649 1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 2
+                          },
+                          {
+                            "x": 508,
+                            "y": 2
+                          },
+                          {
+                            "x": 508,
+                            "y": 231
+                          },
+                          {
+                            "x": 11,
+                            "y": 231
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "play",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [
+            {
+              "effectType": "Blur",
+              "name": "Effect",
+              "doubleParameters": {
+                "blur": 5,
+                "kernelSize": 5,
+                "quality": 1,
+                "resolution": 2
+              },
+              "stringParameters": {},
+              "booleanParameters": {}
+            }
+          ],
+          "behaviors": [
+            {
+              "name": "Sway",
+              "type": "Sway::Sway",
+              "Scale": "Scale",
+              "TweenBehavior": "Tween",
+              "AngleLeft": -2,
+              "AngleRight": 2,
+              "AngleTimeMin": 1,
+              "AngleTimeMax": 3,
+              "YScaleMin": 0,
+              "YScaleMax": 0,
+              "YScaleTimeMin": 0,
+              "YScaleTimeMax": 0
+            },
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "default",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Story-Dice\\assets\\Senza titolo 324_20250818072808 1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 226,
+                            "y": 1
+                          },
+                          {
+                            "x": 226,
+                            "y": 201
+                          },
+                          {
+                            "x": 1,
+                            "y": 201
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "pengaturan",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [
+            {
+              "effectType": "Blur",
+              "name": "Effect",
+              "doubleParameters": {
+                "blur": 5,
+                "kernelSize": 5,
+                "quality": 1,
+                "resolution": 2
+              },
+              "stringParameters": {},
+              "booleanParameters": {}
+            }
+          ],
+          "behaviors": [
+            {
+              "name": "Sway",
+              "type": "Sway::Sway",
+              "Scale": "Scale",
+              "TweenBehavior": "Tween",
+              "AngleLeft": -2,
+              "AngleRight": 2,
+              "AngleTimeMin": 1,
+              "AngleTimeMax": 3,
+              "YScaleMin": 0,
+              "YScaleMax": 0,
+              "YScaleTimeMin": 0,
+              "YScaleTimeMax": 0
+            },
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "default",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Story-Dice\\assets\\Senza titolo 330_20250818073014 1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 1
+                          },
+                          {
+                            "x": 221,
+                            "y": 1
+                          },
+                          {
+                            "x": 221,
+                            "y": 73
+                          },
+                          {
+                            "x": 0,
+                            "y": 73
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "kredit",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [
+            {
+              "effectType": "Blur",
+              "name": "Effect",
+              "doubleParameters": {
+                "blur": 5,
+                "kernelSize": 5,
+                "quality": 1,
+                "resolution": 2
+              },
+              "stringParameters": {},
+              "booleanParameters": {}
+            }
+          ],
+          "behaviors": [
+            {
+              "name": "Sway",
+              "type": "Sway::Sway",
+              "Scale": "Scale",
+              "TweenBehavior": "Tween",
+              "AngleLeft": -2,
+              "AngleRight": 2,
+              "AngleTimeMin": 1,
+              "AngleTimeMax": 3,
+              "YScaleMin": 0,
+              "YScaleMax": 0,
+              "YScaleTimeMin": 0,
+              "YScaleTimeMax": 0
+            },
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "default",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Story-Dice\\assets\\Senza titolo 330_20250818073011 1 (1).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 224,
+                            "y": 1
+                          },
+                          {
+                            "x": 224,
+                            "y": 73
+                          },
+                          {
+                            "x": 1,
+                            "y": 73
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "cewe",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [
+            {
+              "effectType": "Blur",
+              "name": "Effect",
+              "doubleParameters": {
+                "blur": 5,
+                "kernelSize": 5,
+                "quality": 1,
+                "resolution": 2
+              },
+              "stringParameters": {},
+              "booleanParameters": {}
+            }
+          ],
+          "behaviors": [
+            {
+              "name": "EllipseMovement",
+              "type": "EllipseMovement::EllipseMovement",
+              "RadiusX": 10,
+              "RadiusY": 0,
+              "LoopDuration": 6,
+              "InitialTurningLeft": false,
+              "InitialDirectionAngle": 0,
+              "ShouldRotate": false,
+              "RotationOffset": 0,
+              "CenterX": 0,
+              "CenterY": 0,
+              "MovementAngle": 0,
+              "OldX": 2.0247e-320,
+              "OldY": 2.0247e-320
+            }
+          ],
+          "animations": [
+            {
+              "name": "default",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Story-Dice\\assets\\Senza titolo 323_20250818071426 1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 1
+                          },
+                          {
+                            "x": 394,
+                            "y": 1
+                          },
+                          {
+                            "x": 394,
+                            "y": 471
+                          },
+                          {
+                            "x": 3,
+                            "y": 471
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "cowo",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [
+            {
+              "effectType": "Blur",
+              "name": "Effect",
+              "doubleParameters": {
+                "blur": 5,
+                "kernelSize": 5,
+                "quality": 1,
+                "resolution": 2
+              },
+              "stringParameters": {},
+              "booleanParameters": {}
+            }
+          ],
+          "behaviors": [
+            {
+              "name": "EllipseMovement",
+              "type": "EllipseMovement::EllipseMovement",
+              "RadiusX": 10,
+              "RadiusY": 0,
+              "LoopDuration": 6,
+              "InitialTurningLeft": false,
+              "InitialDirectionAngle": 0,
+              "ShouldRotate": false,
+              "RotationOffset": 0,
+              "CenterX": 0,
+              "CenterY": 0,
+              "MovementAngle": 0,
+              "OldX": 2.0247e-320,
+              "OldY": 2.0247e-320
+            }
+          ],
+          "animations": [
+            {
+              "name": "default",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Story-Dice\\assets\\Senza titolo 321_20250818071336 1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 13,
+                            "y": 4
+                          },
+                          {
+                            "x": 313,
+                            "y": 4
+                          },
+                          {
+                            "x": 313,
+                            "y": 450
+                          },
+                          {
+                            "x": 13,
+                            "y": 450
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "kucing",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [
+            {
+              "effectType": "Blur",
+              "name": "Effect",
+              "doubleParameters": {
+                "blur": 5,
+                "kernelSize": 5,
+                "quality": 1,
+                "resolution": 2
+              },
+              "stringParameters": {},
+              "booleanParameters": {}
+            }
+          ],
+          "behaviors": [
+            {
+              "name": "EllipseMovement",
+              "type": "EllipseMovement::EllipseMovement",
+              "RadiusX": 10,
+              "RadiusY": 0,
+              "LoopDuration": 6,
+              "InitialTurningLeft": false,
+              "InitialDirectionAngle": 0,
+              "ShouldRotate": false,
+              "RotationOffset": 0,
+              "CenterX": 0,
+              "CenterY": 0,
+              "MovementAngle": 0,
+              "OldX": 2.0247e-320,
+              "OldY": 2.0247e-320
+            }
+          ],
+          "animations": [
+            {
+              "name": "default",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Story-Dice\\assets\\picco2_20250818071456 1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 237,
+                            "y": 1
+                          },
+                          {
+                            "x": 237,
+                            "y": 192
+                          },
+                          {
+                            "x": 1,
+                            "y": 192
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "tombol_ok",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -5388,10 +6262,10 @@
               "ButtonFSM": "ButtonFSM",
               "Tween": "Tween",
               "IdleScale": 1,
-              "FocusedScale": 1.08,
+              "FocusedScale": 1.2,
               "FadeInDuration": 0.1,
               "FadeOutDuration": 0.2,
-              "PressedScale": 1,
+              "PressedScale": 0.95,
               "FadeInEasing": "easeInOutQuad",
               "FadeOutEasing": "easeInOutQuad",
               "PreviousState": "Idle"
@@ -5412,7 +6286,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Story-Dice\\assets\\Senza titolo 379_20250825105400 1.png",
+                      "image": "Story-Dice\\assets\\Senza titolo 369_20250819085159 1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5428,20 +6302,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 12,
-                            "y": 6
+                            "x": 17,
+                            "y": 16
                           },
                           {
-                            "x": 117,
-                            "y": 6
+                            "x": 196,
+                            "y": 16
                           },
                           {
-                            "x": 117,
-                            "y": 116
+                            "x": 196,
+                            "y": 106
                           },
                           {
-                            "x": 12,
-                            "y": 116
+                            "x": 17,
+                            "y": 106
                           }
                         ]
                       ]
@@ -5455,71 +6329,24 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "nama",
+          "name": "papan",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
-          "behaviors": [
-            {
-              "name": "ButtonFSM",
-              "type": "ButtonStates::ButtonFSM",
-              "ShouldCheckHovering": true,
-              "State": "Idle",
-              "TouchId": 0,
-              "TouchIsInside": false,
-              "MouseIsInside": false,
-              "Index": 2.0247e-320
-            },
-            {
-              "name": "ButtonScaleTween",
-              "type": "ButtonStates::ButtonScaleTween",
-              "Scale": "Scale",
-              "ButtonFSM": "ButtonFSM",
-              "Tween": "Tween",
-              "IdleScale": 1,
-              "FocusedScale": 1.3,
-              "FadeInDuration": 0.1,
-              "FadeOutDuration": 0.2,
-              "PressedScale": 1,
-              "FadeInEasing": "easeInOutQuad",
-              "FadeOutEasing": "easeInOutQuad",
-              "PreviousState": "Idle"
-            },
-            {
-              "name": "EllipseMovement",
-              "type": "EllipseMovement::EllipseMovement",
-              "RadiusX": 0,
-              "RadiusY": 15,
-              "LoopDuration": 4,
-              "InitialTurningLeft": false,
-              "InitialDirectionAngle": 0,
-              "ShouldRotate": false,
-              "RotationOffset": 0,
-              "CenterX": 0,
-              "CenterY": 0,
-              "MovementAngle": 0,
-              "OldX": 2.0247e-320,
-              "OldY": 2.0247e-320
-            },
-            {
-              "name": "Tween",
-              "type": "Tween::TweenBehavior"
-            }
-          ],
+          "behaviors": [],
           "animations": [
             {
-              "name": "NewSprite",
+              "name": "default",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
-                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "NewSprite4",
+                      "image": "Group 4 (3).png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5535,98 +6362,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
-                            "y": 0
+                            "x": 294,
+                            "y": 22
                           },
                           {
-                            "x": 64,
-                            "y": 0
+                            "x": 986,
+                            "y": 22
                           },
                           {
-                            "x": 64,
-                            "y": 64
+                            "x": 986,
+                            "y": 677
                           },
                           {
-                            "x": 0,
-                            "y": 64
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "judul",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [
-            {
-              "name": "EllipseMovement",
-              "type": "EllipseMovement::EllipseMovement",
-              "RadiusX": 5,
-              "RadiusY": 10,
-              "LoopDuration": 5,
-              "InitialTurningLeft": false,
-              "InitialDirectionAngle": 0,
-              "ShouldRotate": false,
-              "RotationOffset": 0,
-              "CenterX": 0,
-              "CenterY": 0,
-              "MovementAngle": 0,
-              "OldX": 2.0247e-320,
-              "OldY": 2.0247e-320
-            }
-          ],
-          "animations": [
-            {
-              "name": "NewSprite",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "NewSprite5",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 64,
-                            "y": 0
-                          },
-                          {
-                            "x": 64,
-                            "y": 64
-                          },
-                          {
-                            "x": 0,
-                            "y": 64
+                            "x": 294,
+                            "y": 677
                           }
                         ]
                       ]
@@ -5642,59 +6391,107 @@
         "folderName": "__ROOT",
         "children": [
           {
-            "objectName": "bg"
+            "folderName": "bg",
+            "children": [
+              {
+                "objectName": "kucing"
+              },
+              {
+                "objectName": "cowo"
+              },
+              {
+                "objectName": "cewe"
+              },
+              {
+                "objectName": "kredit"
+              },
+              {
+                "objectName": "pengaturan"
+              },
+              {
+                "objectName": "play"
+              },
+              {
+                "objectName": "tanah"
+              },
+              {
+                "objectName": "judul"
+              },
+              {
+                "objectName": "bg"
+              }
+            ]
           },
           {
-            "objectName": "back"
+            "objectName": "tombol_ok"
           },
           {
-            "objectName": "nama"
-          },
-          {
-            "objectName": "judul"
+            "objectName": "papan"
           }
         ]
       },
       "events": [
         {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Back",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
             {
-              "type": {
-                "value": "ButtonStates::ButtonFSM::IsClicked"
-              },
-              "parameters": [
-                "back",
-                "ButtonFSM",
-                ""
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "SourisSurObjet"
+                  },
+                  "parameters": [
+                    "tombol_ok",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "MouseButtonFromTextReleased"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Left\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "ok button - story dice.wav",
+                    "1",
+                    "",
+                    "settings.SFX",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"HomePage\"",
+                    ""
+                  ]
+                }
               ]
             }
           ],
-          "actions": [
-            {
-              "type": {
-                "value": "PlaySoundCanal"
-              },
-              "parameters": [
-                "",
-                "back button - story dice (1)2.wav",
-                "1",
-                "",
-                "settings.SFX",
-                "1"
-              ]
-            },
-            {
-              "type": {
-                "value": "Scene"
-              },
-              "parameters": [
-                "",
-                "\"HomePage\"",
-                ""
-              ]
-            }
-          ]
+          "parameters": []
         }
       ],
       "layers": [
@@ -5795,6 +6592,10 @@
         {
           "name": "Scale",
           "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "Sway",
+          "type": "Sway::Sway"
         },
         {
           "name": "Tween",
